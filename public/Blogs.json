@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "Exploring the Universe",
+        "cover_img": "https://i.ibb.co/VjQk0KS/hq720-1.jpg",
+        "author_name": "Jane Doe",
+        "author_img": "https://i.ibb.co/p4B8Hk5/sofiulalom.jpg",
+        "hashtags": [
+            "#astronomy",
+            "#space",
+            "#science"
+        ],
+        "date": "2024-07-15",
+        "time": "14:30:00"
+    },
+    {
+        "id": 2,
+        "title": "The Art of Cooking",
+        "cover_img": "https://i.ibb.co/VjQk0KS/hq720-1.jpg",
+        "author_name": "John Smith",
+        "author_img": "https://i.ibb.co/p4B8Hk5/sofiulalom.jpg",
+        "hashtags": [
+            "#cooking",
+            "#food",
+            "#recipes"
+        ],
+        "date": "2024-07-16",
+        "time": "09:00:00"
+    },
+    {
+        "id": 3,
+        "title": "Tech Trends 2024",
+        "cover_img": "https://i.ibb.co/VjQk0KS/hq720-1.jpg",
+        "author_name": "Alice Johnson",
+        "author_img": "https://i.ibb.co/p4B8Hk5/sofiulalom.jpg",
+        "hashtags": [
+            "#technology",
+            "#innovation",
+            "#future"
+        ],
+        "date": "2024-07-17",
+        "time": "16:45:00"
+    },
+    {
+        "id": 4,
+        "title": "Mindfulness for Beginners",
+        "cover_img": "https://i.ibb.co/VjQk0KS/hq720-1.jpg",
+        "author_name": "Robert Brown",
+        "author_img": "https://i.ibb.co/p4B8Hk5/sofiulalom.jpg",
+        "hashtags": [
+            "#mindfulness",
+            "#wellness",
+            "#meditation"
+        ],
+        "date": "2024-07-18",
+        "time": "08:15:00"
+    },
+    {
+        "id": 5,
+        "title": "History of Art",
+        "cover_img": "https://i.ibb.co/VjQk0KS/hq720-1.jpg",
+        "author_name": "Emily Davis",
+        "author_img": "https://i.ibb.co/p4B8Hk5/sofiulalom.jpg",
+        "hashtags": [
+            "#art",
+            "#history",
+            "#culture"
+        ],
+        "date": "2024-07-19",
+        "time": "11:00:00"
+    }
+]
